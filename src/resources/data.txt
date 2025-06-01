@@ -1,0 +1,4 @@
+animals,Lion,Zebra,Elephant,Tiger,Panda,
+sports,Basketball,Football,Badminton,Volleyball,Golf,
+fruits,Banana,Orange,Apple,Strawberry,Mango,Tomato,
+anime, Naruto, One Piece, Doremon
